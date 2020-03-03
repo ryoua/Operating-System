@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/t0.c
+stdio.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/stdio.h
+assert.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/assert.h
+pthread.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/pthread.h
+
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/t1.c
+stdio.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/stdio.h
+pthread.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter26/pthread.h
+

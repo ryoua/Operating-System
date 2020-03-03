@@ -1,0 +1,3 @@
+C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir
+C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
