@@ -24,5 +24,5 @@ int t1(int argc, char *argv[]) {
     printf("main: begin (counter: %d\n)", counter);
     pthread_create(&p1, NULL, mythread, "A");
     pthread_create(&p2, NULL, mythread, "B");
-    
+    return 0;
 }
