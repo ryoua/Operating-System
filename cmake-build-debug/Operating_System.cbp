@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h">
+			<Option target="Operating_System"/>
+		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/t0.c">
 			<Option target="Operating_System"/>
 		</Unit>

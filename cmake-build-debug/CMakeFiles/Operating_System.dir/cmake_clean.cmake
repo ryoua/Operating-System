@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Operating_System.dir/chapter26/mythreads.c.obj"
   "CMakeFiles/Operating_System.dir/chapter26/t0.c.obj"
   "CMakeFiles/Operating_System.dir/chapter26/t1.c.obj"
   "CMakeFiles/Operating_System.dir/main.c.obj"

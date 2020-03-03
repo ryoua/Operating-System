@@ -2,23 +2,22 @@
 // Created by ryoua on 2020/3/3.
 //
 #include "stdio.h"
-#include "assert.h"
 #include "pthread.h"
+#include "mythreads.h"
 
-void *mythread(void *arg) {
+void *mythread0(void *arg) {
     printf("%s\n", (char *) arg);
     return NULL;
 }
 
 int t0(int argc, char *argv[]) {
     pthread_t p1, p2;
-    int rc;
     printf("main: begin\n");
-    rc = pthread_create(&p1, NULL, mythread, "A"); assert(rc == 0);
-    rc = pthread_create(&p2, NULL, mythread, "B"); assert(rc == 0);
+    Pthread_create(&p1, NULL, mythread0, "A");
+    Pthread_create(&p2, NULL, mythread0, "B");
 
-    rc = pthread_join(p1, NULL); assert(rc == 0);
-    rc = pthread_join(p2, NULL); assert(rc == 0);
+    Pthread_join(p1, NULL);
+    Pthread_join(p2, NULL);
     printf("main: end\n");
     return 0;
 }

@@ -3,4 +3,4 @@ project(Operating_System C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Operating_System main.c chapter26/t0.c chapter26/t1.c)
+add_executable(Operating_System main.c chapter26/t0.c chapter26/t1.c chapter26/mythreads.h chapter26/mythreads.c)

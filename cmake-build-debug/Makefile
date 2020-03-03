@@ -122,6 +122,33 @@ Operating_System/fast:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/build
 .PHONY : Operating_System/fast
 
+chapter26/mythreads.obj: chapter26/mythreads.c.obj
+
+.PHONY : chapter26/mythreads.obj
+
+# target to build an object file
+chapter26/mythreads.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/mythreads.c.obj
+.PHONY : chapter26/mythreads.c.obj
+
+chapter26/mythreads.i: chapter26/mythreads.c.i
+
+.PHONY : chapter26/mythreads.i
+
+# target to preprocess a source file
+chapter26/mythreads.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/mythreads.c.i
+.PHONY : chapter26/mythreads.c.i
+
+chapter26/mythreads.s: chapter26/mythreads.c.s
+
+.PHONY : chapter26/mythreads.s
+
+# target to generate assembly for a file
+chapter26/mythreads.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/mythreads.c.s
+.PHONY : chapter26/mythreads.c.s
+
 chapter26/t0.obj: chapter26/t0.c.obj
 
 .PHONY : chapter26/t0.obj
@@ -212,6 +239,9 @@ help:
 	@echo ... Operating_System
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... chapter26/mythreads.obj
+	@echo ... chapter26/mythreads.i
+	@echo ... chapter26/mythreads.s
 	@echo ... chapter26/t0.obj
 	@echo ... chapter26/t0.i
 	@echo ... chapter26/t0.s
