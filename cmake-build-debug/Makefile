@@ -122,6 +122,60 @@ Operating_System/fast:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/build
 .PHONY : Operating_System/fast
 
+chapter26/chapter26_t0.obj: chapter26/chapter26_t0.c.obj
+
+.PHONY : chapter26/chapter26_t0.obj
+
+# target to build an object file
+chapter26/chapter26_t0.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/chapter26_t0.c.obj
+.PHONY : chapter26/chapter26_t0.c.obj
+
+chapter26/chapter26_t0.i: chapter26/chapter26_t0.c.i
+
+.PHONY : chapter26/chapter26_t0.i
+
+# target to preprocess a source file
+chapter26/chapter26_t0.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/chapter26_t0.c.i
+.PHONY : chapter26/chapter26_t0.c.i
+
+chapter26/chapter26_t0.s: chapter26/chapter26_t0.c.s
+
+.PHONY : chapter26/chapter26_t0.s
+
+# target to generate assembly for a file
+chapter26/chapter26_t0.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/chapter26_t0.c.s
+.PHONY : chapter26/chapter26_t0.c.s
+
+chapter26/chapter26_t1.obj: chapter26/chapter26_t1.c.obj
+
+.PHONY : chapter26/chapter26_t1.obj
+
+# target to build an object file
+chapter26/chapter26_t1.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.obj
+.PHONY : chapter26/chapter26_t1.c.obj
+
+chapter26/chapter26_t1.i: chapter26/chapter26_t1.c.i
+
+.PHONY : chapter26/chapter26_t1.i
+
+# target to preprocess a source file
+chapter26/chapter26_t1.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.i
+.PHONY : chapter26/chapter26_t1.c.i
+
+chapter26/chapter26_t1.s: chapter26/chapter26_t1.c.s
+
+.PHONY : chapter26/chapter26_t1.s
+
+# target to generate assembly for a file
+chapter26/chapter26_t1.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.s
+.PHONY : chapter26/chapter26_t1.c.s
+
 chapter26/mythreads.obj: chapter26/mythreads.c.obj
 
 .PHONY : chapter26/mythreads.obj
@@ -149,59 +203,59 @@ chapter26/mythreads.c.s:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/mythreads.c.s
 .PHONY : chapter26/mythreads.c.s
 
-chapter26/t0.obj: chapter26/t0.c.obj
+chapter27/chapter27_t0.obj: chapter27/chapter27_t0.c.obj
 
-.PHONY : chapter26/t0.obj
-
-# target to build an object file
-chapter26/t0.c.obj:
-	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/t0.c.obj
-.PHONY : chapter26/t0.c.obj
-
-chapter26/t0.i: chapter26/t0.c.i
-
-.PHONY : chapter26/t0.i
-
-# target to preprocess a source file
-chapter26/t0.c.i:
-	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/t0.c.i
-.PHONY : chapter26/t0.c.i
-
-chapter26/t0.s: chapter26/t0.c.s
-
-.PHONY : chapter26/t0.s
-
-# target to generate assembly for a file
-chapter26/t0.c.s:
-	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/t0.c.s
-.PHONY : chapter26/t0.c.s
-
-chapter26/t1.obj: chapter26/t1.c.obj
-
-.PHONY : chapter26/t1.obj
+.PHONY : chapter27/chapter27_t0.obj
 
 # target to build an object file
-chapter26/t1.c.obj:
-	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/t1.c.obj
-.PHONY : chapter26/t1.c.obj
+chapter27/chapter27_t0.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t0.c.obj
+.PHONY : chapter27/chapter27_t0.c.obj
 
-chapter26/t1.i: chapter26/t1.c.i
+chapter27/chapter27_t0.i: chapter27/chapter27_t0.c.i
 
-.PHONY : chapter26/t1.i
+.PHONY : chapter27/chapter27_t0.i
 
 # target to preprocess a source file
-chapter26/t1.c.i:
-	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/t1.c.i
-.PHONY : chapter26/t1.c.i
+chapter27/chapter27_t0.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t0.c.i
+.PHONY : chapter27/chapter27_t0.c.i
 
-chapter26/t1.s: chapter26/t1.c.s
+chapter27/chapter27_t0.s: chapter27/chapter27_t0.c.s
 
-.PHONY : chapter26/t1.s
+.PHONY : chapter27/chapter27_t0.s
 
 # target to generate assembly for a file
-chapter26/t1.c.s:
-	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter26/t1.c.s
-.PHONY : chapter26/t1.c.s
+chapter27/chapter27_t0.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t0.c.s
+.PHONY : chapter27/chapter27_t0.c.s
+
+chapter27/chapter27_t1.obj: chapter27/chapter27_t1.c.obj
+
+.PHONY : chapter27/chapter27_t1.obj
+
+# target to build an object file
+chapter27/chapter27_t1.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.obj
+.PHONY : chapter27/chapter27_t1.c.obj
+
+chapter27/chapter27_t1.i: chapter27/chapter27_t1.c.i
+
+.PHONY : chapter27/chapter27_t1.i
+
+# target to preprocess a source file
+chapter27/chapter27_t1.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.i
+.PHONY : chapter27/chapter27_t1.c.i
+
+chapter27/chapter27_t1.s: chapter27/chapter27_t1.c.s
+
+.PHONY : chapter27/chapter27_t1.s
+
+# target to generate assembly for a file
+chapter27/chapter27_t1.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.s
+.PHONY : chapter27/chapter27_t1.c.s
 
 main.obj: main.c.obj
 
@@ -239,15 +293,21 @@ help:
 	@echo ... Operating_System
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... chapter26/chapter26_t0.obj
+	@echo ... chapter26/chapter26_t0.i
+	@echo ... chapter26/chapter26_t0.s
+	@echo ... chapter26/chapter26_t1.obj
+	@echo ... chapter26/chapter26_t1.i
+	@echo ... chapter26/chapter26_t1.s
 	@echo ... chapter26/mythreads.obj
 	@echo ... chapter26/mythreads.i
 	@echo ... chapter26/mythreads.s
-	@echo ... chapter26/t0.obj
-	@echo ... chapter26/t0.i
-	@echo ... chapter26/t0.s
-	@echo ... chapter26/t1.obj
-	@echo ... chapter26/t1.i
-	@echo ... chapter26/t1.s
+	@echo ... chapter27/chapter27_t0.obj
+	@echo ... chapter27/chapter27_t0.i
+	@echo ... chapter27/chapter27_t0.s
+	@echo ... chapter27/chapter27_t1.obj
+	@echo ... chapter27/chapter27_t1.i
+	@echo ... chapter27/chapter27_t1.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

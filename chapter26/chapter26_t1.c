@@ -8,7 +8,7 @@
 
 static volatile int counter = 0;
 
-void *mythread1(void *arg) {
+void *mythread_chapter26_t1(void *arg) {
     printf("%s: begin\n", (
             char *) arg);
     for (int i = 0; i < 1e7; i++) {
@@ -19,11 +19,11 @@ void *mythread1(void *arg) {
     return NULL;
 }
 
-int t1(int argc, char *argv[]) {
+int chapter26_t1(int argc, char *argv[]) {
     pthread_t p1, p2;
     printf("main: begin (counter: %d)\n", counter);
-    Pthread_create(&p1, NULL, mythread1, "A");
-    Pthread_create(&p2, NULL, mythread1, "B");
+    Pthread_create(&p1, NULL, mythread_chapter26_t1, "A");
+    Pthread_create(&p2, NULL, mythread_chapter26_t1, "B");
 
     Pthread_join(p1, NULL);
     Pthread_join(p2, NULL);

@@ -15,3 +15,8 @@ void Pthread_join(pthread_t t, void **res) {
     rc = pthread_join(t, res);
     assert(rc == 0);
 }
+
+void Pthread_mutex_lock(pthread_mutex_t *mutex) {
+    int rc = pthread_mutex_lock(mutex);
+    assert(rc == 0);
+}

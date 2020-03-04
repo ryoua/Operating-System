@@ -74,16 +74,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t0.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t1.c">
+			<Option target="Operating_System"/>
+		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.c">
 			<Option target="Operating_System"/>
 		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h">
 			<Option target="Operating_System"/>
 		</Unit>
-		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/t0.c">
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter27/chapter27_t0.c">
 			<Option target="Operating_System"/>
 		</Unit>
-		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/t1.c">
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter27/chapter27_t1.c">
 			<Option target="Operating_System"/>
 		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/main.c">
