@@ -12,33 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aee839c2-4611-458c-a04a-2b961c8df75d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter27/chapter27_t0.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter27/chapter27_t1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ryoua.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ryoua.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter26/mythreads.c" beforeDir="false" afterPath="$PROJECT_DIR$/chapter26/mythreads.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter26/mythreads.h" beforeDir="false" afterPath="$PROJECT_DIR$/chapter26/mythreads.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter26/t0.c" beforeDir="false" afterPath="$PROJECT_DIR$/chapter26/chapter26_t0.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter26/t1.c" beforeDir="false" afterPath="$PROJECT_DIR$/chapter26/chapter26_t1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter26/t0.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter26/t1.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Operating_System.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Operating_System.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Operating_System.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Operating_System.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583222636452</updated>
       <workItem from="1583222638051" duration="9600000" />
-      <workItem from="1583282209638" duration="2129000" />
+      <workItem from="1583282209638" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1583227109857</created>
@@ -101,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583240591198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapter27 finished">
+      <created>1583303515136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583303515136</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +92,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="chapter26 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter26 finished" />
+    <MESSAGE value="chapter27 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter27 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1583303513754">
@@ -137,10 +120,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="142" y="28" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1583227173634" />
-    <state x="233" y="122" key="Vcs.Push.Dialog.v2" timestamp="1583240596369">
+    <state x="233" y="122" key="Vcs.Push.Dialog.v2" timestamp="1583303519891">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="233" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1583240596369" />
+    <state x="233" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1583303519891" />
     <state x="299" y="175" key="run.anything.popup" timestamp="1583224079649">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
