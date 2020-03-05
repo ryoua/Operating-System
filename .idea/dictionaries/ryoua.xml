@@ -1,10 +1,13 @@
 <component name="ProjectDictionaryState">
   <dictionary name="ryoua">
     <words>
+      <w>glock</w>
+      <w>llock</w>
       <w>myarg</w>
       <w>myret</w>
       <w>mythread</w>
       <w>mythreads</w>
+      <w>numcpus</w>
       <w>ryoua</w>
     </words>
   </dictionary>

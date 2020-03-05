@@ -134,6 +134,58 @@ CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.s"
 	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter27\chapter27_t1.c -o CMakeFiles\Operating_System.dir\chapter27\chapter27_t1.c.s
 
+CMakeFiles/Operating_System.dir/chapter29/Counter.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter29/Counter.c.obj: ../chapter29/Counter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Operating_System.dir/chapter29/Counter.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter29\Counter.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Counter.c
+
+CMakeFiles/Operating_System.dir/chapter29/Counter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter29/Counter.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Counter.c > CMakeFiles\Operating_System.dir\chapter29\Counter.c.i
+
+CMakeFiles/Operating_System.dir/chapter29/Counter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter29/Counter.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Counter.c -o CMakeFiles\Operating_System.dir\chapter29\Counter.c.s
+
+CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.obj: ../chapter29/Concurrent_Counter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter29\Concurrent_Counter.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Concurrent_Counter.c
+
+CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Concurrent_Counter.c > CMakeFiles\Operating_System.dir\chapter29\Concurrent_Counter.c.i
+
+CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Concurrent_Counter.c -o CMakeFiles\Operating_System.dir\chapter29\Concurrent_Counter.c.s
+
+CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.obj: ../chapter29/Lazy_Counter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter29\Lazy_Counter.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Lazy_Counter.c
+
+CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Lazy_Counter.c > CMakeFiles\Operating_System.dir\chapter29\Lazy_Counter.c.i
+
+CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Lazy_Counter.c -o CMakeFiles\Operating_System.dir\chapter29\Lazy_Counter.c.s
+
+CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.obj: ../chapter29/Linked_List.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter29\Linked_List.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Linked_List.c
+
+CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Linked_List.c > CMakeFiles\Operating_System.dir\chapter29\Linked_List.c.i
+
+CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter29\Linked_List.c -o CMakeFiles\Operating_System.dir\chapter29\Linked_List.c.s
+
 # Object files for target Operating_System
 Operating_System_OBJECTS = \
 "CMakeFiles/Operating_System.dir/main.c.obj" \
@@ -141,7 +193,11 @@ Operating_System_OBJECTS = \
 "CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.obj" \
 "CMakeFiles/Operating_System.dir/chapter26/mythreads.c.obj" \
 "CMakeFiles/Operating_System.dir/chapter27/chapter27_t0.c.obj" \
-"CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.obj"
+"CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter29/Counter.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.obj"
 
 # External object files for target Operating_System
 Operating_System_EXTERNAL_OBJECTS =
@@ -152,11 +208,15 @@ Operating_System.exe: CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.o
 Operating_System.exe: CMakeFiles/Operating_System.dir/chapter26/mythreads.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/chapter27/chapter27_t0.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter29/Counter.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/build.make
 Operating_System.exe: CMakeFiles/Operating_System.dir/linklibs.rsp
 Operating_System.exe: CMakeFiles/Operating_System.dir/objects1.rsp
 Operating_System.exe: CMakeFiles/Operating_System.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable Operating_System.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable Operating_System.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Operating_System.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

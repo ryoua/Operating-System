@@ -257,6 +257,114 @@ chapter27/chapter27_t1.c.s:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.s
 .PHONY : chapter27/chapter27_t1.c.s
 
+chapter29/Concurrent_Counter.obj: chapter29/Concurrent_Counter.c.obj
+
+.PHONY : chapter29/Concurrent_Counter.obj
+
+# target to build an object file
+chapter29/Concurrent_Counter.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.obj
+.PHONY : chapter29/Concurrent_Counter.c.obj
+
+chapter29/Concurrent_Counter.i: chapter29/Concurrent_Counter.c.i
+
+.PHONY : chapter29/Concurrent_Counter.i
+
+# target to preprocess a source file
+chapter29/Concurrent_Counter.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.i
+.PHONY : chapter29/Concurrent_Counter.c.i
+
+chapter29/Concurrent_Counter.s: chapter29/Concurrent_Counter.c.s
+
+.PHONY : chapter29/Concurrent_Counter.s
+
+# target to generate assembly for a file
+chapter29/Concurrent_Counter.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Concurrent_Counter.c.s
+.PHONY : chapter29/Concurrent_Counter.c.s
+
+chapter29/Counter.obj: chapter29/Counter.c.obj
+
+.PHONY : chapter29/Counter.obj
+
+# target to build an object file
+chapter29/Counter.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Counter.c.obj
+.PHONY : chapter29/Counter.c.obj
+
+chapter29/Counter.i: chapter29/Counter.c.i
+
+.PHONY : chapter29/Counter.i
+
+# target to preprocess a source file
+chapter29/Counter.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Counter.c.i
+.PHONY : chapter29/Counter.c.i
+
+chapter29/Counter.s: chapter29/Counter.c.s
+
+.PHONY : chapter29/Counter.s
+
+# target to generate assembly for a file
+chapter29/Counter.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Counter.c.s
+.PHONY : chapter29/Counter.c.s
+
+chapter29/Lazy_Counter.obj: chapter29/Lazy_Counter.c.obj
+
+.PHONY : chapter29/Lazy_Counter.obj
+
+# target to build an object file
+chapter29/Lazy_Counter.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.obj
+.PHONY : chapter29/Lazy_Counter.c.obj
+
+chapter29/Lazy_Counter.i: chapter29/Lazy_Counter.c.i
+
+.PHONY : chapter29/Lazy_Counter.i
+
+# target to preprocess a source file
+chapter29/Lazy_Counter.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.i
+.PHONY : chapter29/Lazy_Counter.c.i
+
+chapter29/Lazy_Counter.s: chapter29/Lazy_Counter.c.s
+
+.PHONY : chapter29/Lazy_Counter.s
+
+# target to generate assembly for a file
+chapter29/Lazy_Counter.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Lazy_Counter.c.s
+.PHONY : chapter29/Lazy_Counter.c.s
+
+chapter29/Linked_List.obj: chapter29/Linked_List.c.obj
+
+.PHONY : chapter29/Linked_List.obj
+
+# target to build an object file
+chapter29/Linked_List.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.obj
+.PHONY : chapter29/Linked_List.c.obj
+
+chapter29/Linked_List.i: chapter29/Linked_List.c.i
+
+.PHONY : chapter29/Linked_List.i
+
+# target to preprocess a source file
+chapter29/Linked_List.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.i
+.PHONY : chapter29/Linked_List.c.i
+
+chapter29/Linked_List.s: chapter29/Linked_List.c.s
+
+.PHONY : chapter29/Linked_List.s
+
+# target to generate assembly for a file
+chapter29/Linked_List.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter29/Linked_List.c.s
+.PHONY : chapter29/Linked_List.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -308,6 +416,18 @@ help:
 	@echo ... chapter27/chapter27_t1.obj
 	@echo ... chapter27/chapter27_t1.i
 	@echo ... chapter27/chapter27_t1.s
+	@echo ... chapter29/Concurrent_Counter.obj
+	@echo ... chapter29/Concurrent_Counter.i
+	@echo ... chapter29/Concurrent_Counter.s
+	@echo ... chapter29/Counter.obj
+	@echo ... chapter29/Counter.i
+	@echo ... chapter29/Counter.s
+	@echo ... chapter29/Lazy_Counter.obj
+	@echo ... chapter29/Lazy_Counter.i
+	@echo ... chapter29/Lazy_Counter.s
+	@echo ... chapter29/Linked_List.obj
+	@echo ... chapter29/Linked_List.i
+	@echo ... chapter29/Linked_List.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
