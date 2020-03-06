@@ -1,7 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Operating_System.dir/chapter01/main.c.obj"
   "CMakeFiles/Operating_System.dir/chapter02/cpu.c.obj"
   "CMakeFiles/Operating_System.dir/chapter02/mem.c.obj"
   "CMakeFiles/Operating_System.dir/chapter02/threads.c.obj"
+  "CMakeFiles/Operating_System.dir/chapter03/main.c.obj"
+  "CMakeFiles/Operating_System.dir/chapter04/main.c.obj"
   "CMakeFiles/Operating_System.dir/chapter26/chapter26_t0.c.obj"
   "CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.obj"
   "CMakeFiles/Operating_System.dir/chapter26/mythreads.c.obj"

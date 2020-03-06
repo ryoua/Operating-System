@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter01/main.c">
+			<Option target="Operating_System"/>
+		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter02/cpu.c">
 			<Option target="Operating_System"/>
 		</Unit>
@@ -81,6 +84,12 @@
 			<Option target="Operating_System"/>
 		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter02/threads.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter03/main.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter04/main.c">
 			<Option target="Operating_System"/>
 		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t0.c">
