@@ -14,7 +14,7 @@ typedef struct lazy_counter_t {
     int threshold;
 } lazy_counter_t;
 
-void init(lazy_counter_t *c, int threshold) {
+void lazy_init(lazy_counter_t *c, int threshold) {
     c->threshold = threshold;
 
     c->global = 0;
@@ -26,7 +26,7 @@ void init(lazy_counter_t *c, int threshold) {
     }
 }
 
-void update(lazy_counter_t *c, int threadID, int amt) {
+void lazy_update(lazy_counter_t *c, int threadID, int amt) {
     pthread_mutex_lock(&c->llock[threadID]);
     c->local[threadID] += amt;
     if (c->local[threadID] >= c->threshold) {
@@ -38,7 +38,7 @@ void update(lazy_counter_t *c, int threadID, int amt) {
     pthread_mutex_unlock(&c->llock[threadID]);
 }
 
-int get(lazy_counter_t *c) {
+int lazy_get(lazy_counter_t *c) {
     pthread_mutex_lock(&c->glock);
     int val = c->global;
     pthread_mutex_unlock(&c->glock);

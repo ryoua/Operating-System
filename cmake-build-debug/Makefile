@@ -122,6 +122,87 @@ Operating_System/fast:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/build
 .PHONY : Operating_System/fast
 
+chapter02/cpu.obj: chapter02/cpu.c.obj
+
+.PHONY : chapter02/cpu.obj
+
+# target to build an object file
+chapter02/cpu.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/cpu.c.obj
+.PHONY : chapter02/cpu.c.obj
+
+chapter02/cpu.i: chapter02/cpu.c.i
+
+.PHONY : chapter02/cpu.i
+
+# target to preprocess a source file
+chapter02/cpu.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/cpu.c.i
+.PHONY : chapter02/cpu.c.i
+
+chapter02/cpu.s: chapter02/cpu.c.s
+
+.PHONY : chapter02/cpu.s
+
+# target to generate assembly for a file
+chapter02/cpu.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/cpu.c.s
+.PHONY : chapter02/cpu.c.s
+
+chapter02/mem.obj: chapter02/mem.c.obj
+
+.PHONY : chapter02/mem.obj
+
+# target to build an object file
+chapter02/mem.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/mem.c.obj
+.PHONY : chapter02/mem.c.obj
+
+chapter02/mem.i: chapter02/mem.c.i
+
+.PHONY : chapter02/mem.i
+
+# target to preprocess a source file
+chapter02/mem.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/mem.c.i
+.PHONY : chapter02/mem.c.i
+
+chapter02/mem.s: chapter02/mem.c.s
+
+.PHONY : chapter02/mem.s
+
+# target to generate assembly for a file
+chapter02/mem.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/mem.c.s
+.PHONY : chapter02/mem.c.s
+
+chapter02/threads.obj: chapter02/threads.c.obj
+
+.PHONY : chapter02/threads.obj
+
+# target to build an object file
+chapter02/threads.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/threads.c.obj
+.PHONY : chapter02/threads.c.obj
+
+chapter02/threads.i: chapter02/threads.c.i
+
+.PHONY : chapter02/threads.i
+
+# target to preprocess a source file
+chapter02/threads.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/threads.c.i
+.PHONY : chapter02/threads.c.i
+
+chapter02/threads.s: chapter02/threads.c.s
+
+.PHONY : chapter02/threads.s
+
+# target to generate assembly for a file
+chapter02/threads.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter02/threads.c.s
+.PHONY : chapter02/threads.c.s
+
 chapter26/chapter26_t0.obj: chapter26/chapter26_t0.c.obj
 
 .PHONY : chapter26/chapter26_t0.obj
@@ -401,6 +482,15 @@ help:
 	@echo ... Operating_System
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... chapter02/cpu.obj
+	@echo ... chapter02/cpu.i
+	@echo ... chapter02/cpu.s
+	@echo ... chapter02/mem.obj
+	@echo ... chapter02/mem.i
+	@echo ... chapter02/mem.s
+	@echo ... chapter02/threads.obj
+	@echo ... chapter02/threads.i
+	@echo ... chapter02/threads.s
 	@echo ... chapter26/chapter26_t0.obj
 	@echo ... chapter26/chapter26_t0.i
 	@echo ... chapter26/chapter26_t0.s

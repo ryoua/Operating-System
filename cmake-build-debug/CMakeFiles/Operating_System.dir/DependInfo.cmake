@@ -4,6 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/ryoua/CLionProjects/Operating-System/chapter02/cpu.c" "C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter02/cpu.c.obj"
+  "C:/Users/ryoua/CLionProjects/Operating-System/chapter02/mem.c" "C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter02/mem.c.obj"
+  "C:/Users/ryoua/CLionProjects/Operating-System/chapter02/threads.c" "C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter02/threads.c.obj"
   "C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t0.c" "C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter26/chapter26_t0.c.obj"
   "C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t1.c" "C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter26/chapter26_t1.c.obj"
   "C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.c" "C:/Users/ryoua/CLionProjects/Operating-System/cmake-build-debug/CMakeFiles/Operating_System.dir/chapter26/mythreads.c.obj"

@@ -6,20 +6,34 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t0.c
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/cpu.c
 stdio.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/stdio.h
-pthread.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/pthread.h
-mythreads.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/stdio.h
+stdlib.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/stdlib.h
+sys/time.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/sys/time.h
+assert.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/assert.h
 
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t1.c
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/mem.c
+unistd.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/unistd.h
 stdio.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/stdio.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/stdio.h
+stdlib.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/stdlib.h
+assert.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/assert.h
+
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/threads.c
 pthread.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/pthread.h
-mythreads.h
+-
+stdio.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/stdio.h
+stdlib.h
+C:/Users/ryoua/CLionProjects/Operating-System/chapter02/stdlib.h
+../chapter26/mythreads.h
 C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h
 
 C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h
@@ -27,22 +41,4 @@ pthread.h
 -
 assert.h
 -
-
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/chapter27_t0.c
-pthread.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/pthread.h
-stdio.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/stdio.h
-../chapter26/mythreads.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h
-
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/chapter27_t1.c
-stdio.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/stdio.h
-pthread.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/pthread.h
-stdlib.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter27/stdlib.h
-../chapter26/mythreads.h
-C:/Users/ryoua/CLionProjects/Operating-System/chapter26/mythreads.h
 
