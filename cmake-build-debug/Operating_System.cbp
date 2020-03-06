@@ -92,6 +92,18 @@
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter04/main.c">
 			<Option target="Operating_System"/>
 		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter05/p1.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter05/p2.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter05/p3.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter05/p4.c">
+			<Option target="Operating_System"/>
+		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter26/chapter26_t0.c">
 			<Option target="Operating_System"/>
 		</Unit>
@@ -108,6 +120,9 @@
 			<Option target="Operating_System"/>
 		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter27/chapter27_t1.c">
+			<Option target="Operating_System"/>
+		</Unit>
+		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter28/main.c">
 			<Option target="Operating_System"/>
 		</Unit>
 		<Unit filename="C:/Users/ryoua/CLionProjects/Operating-System/chapter29/Concurrent_Counter.c">

@@ -284,6 +284,114 @@ chapter04/main.c.s:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter04/main.c.s
 .PHONY : chapter04/main.c.s
 
+chapter05/p1.obj: chapter05/p1.c.obj
+
+.PHONY : chapter05/p1.obj
+
+# target to build an object file
+chapter05/p1.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p1.c.obj
+.PHONY : chapter05/p1.c.obj
+
+chapter05/p1.i: chapter05/p1.c.i
+
+.PHONY : chapter05/p1.i
+
+# target to preprocess a source file
+chapter05/p1.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p1.c.i
+.PHONY : chapter05/p1.c.i
+
+chapter05/p1.s: chapter05/p1.c.s
+
+.PHONY : chapter05/p1.s
+
+# target to generate assembly for a file
+chapter05/p1.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p1.c.s
+.PHONY : chapter05/p1.c.s
+
+chapter05/p2.obj: chapter05/p2.c.obj
+
+.PHONY : chapter05/p2.obj
+
+# target to build an object file
+chapter05/p2.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p2.c.obj
+.PHONY : chapter05/p2.c.obj
+
+chapter05/p2.i: chapter05/p2.c.i
+
+.PHONY : chapter05/p2.i
+
+# target to preprocess a source file
+chapter05/p2.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p2.c.i
+.PHONY : chapter05/p2.c.i
+
+chapter05/p2.s: chapter05/p2.c.s
+
+.PHONY : chapter05/p2.s
+
+# target to generate assembly for a file
+chapter05/p2.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p2.c.s
+.PHONY : chapter05/p2.c.s
+
+chapter05/p3.obj: chapter05/p3.c.obj
+
+.PHONY : chapter05/p3.obj
+
+# target to build an object file
+chapter05/p3.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p3.c.obj
+.PHONY : chapter05/p3.c.obj
+
+chapter05/p3.i: chapter05/p3.c.i
+
+.PHONY : chapter05/p3.i
+
+# target to preprocess a source file
+chapter05/p3.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p3.c.i
+.PHONY : chapter05/p3.c.i
+
+chapter05/p3.s: chapter05/p3.c.s
+
+.PHONY : chapter05/p3.s
+
+# target to generate assembly for a file
+chapter05/p3.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p3.c.s
+.PHONY : chapter05/p3.c.s
+
+chapter05/p4.obj: chapter05/p4.c.obj
+
+.PHONY : chapter05/p4.obj
+
+# target to build an object file
+chapter05/p4.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p4.c.obj
+.PHONY : chapter05/p4.c.obj
+
+chapter05/p4.i: chapter05/p4.c.i
+
+.PHONY : chapter05/p4.i
+
+# target to preprocess a source file
+chapter05/p4.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p4.c.i
+.PHONY : chapter05/p4.c.i
+
+chapter05/p4.s: chapter05/p4.c.s
+
+.PHONY : chapter05/p4.s
+
+# target to generate assembly for a file
+chapter05/p4.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter05/p4.c.s
+.PHONY : chapter05/p4.c.s
+
 chapter26/chapter26_t0.obj: chapter26/chapter26_t0.c.obj
 
 .PHONY : chapter26/chapter26_t0.obj
@@ -418,6 +526,33 @@ chapter27/chapter27_t1.s: chapter27/chapter27_t1.c.s
 chapter27/chapter27_t1.c.s:
 	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter27/chapter27_t1.c.s
 .PHONY : chapter27/chapter27_t1.c.s
+
+chapter28/main.obj: chapter28/main.c.obj
+
+.PHONY : chapter28/main.obj
+
+# target to build an object file
+chapter28/main.c.obj:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter28/main.c.obj
+.PHONY : chapter28/main.c.obj
+
+chapter28/main.i: chapter28/main.c.i
+
+.PHONY : chapter28/main.i
+
+# target to preprocess a source file
+chapter28/main.c.i:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter28/main.c.i
+.PHONY : chapter28/main.c.i
+
+chapter28/main.s: chapter28/main.c.s
+
+.PHONY : chapter28/main.s
+
+# target to generate assembly for a file
+chapter28/main.c.s:
+	$(MAKE) -f CMakeFiles\Operating_System.dir\build.make CMakeFiles/Operating_System.dir/chapter28/main.c.s
+.PHONY : chapter28/main.c.s
 
 chapter29/Concurrent_Counter.obj: chapter29/Concurrent_Counter.c.obj
 
@@ -581,6 +716,18 @@ help:
 	@echo ... chapter04/main.obj
 	@echo ... chapter04/main.i
 	@echo ... chapter04/main.s
+	@echo ... chapter05/p1.obj
+	@echo ... chapter05/p1.i
+	@echo ... chapter05/p1.s
+	@echo ... chapter05/p2.obj
+	@echo ... chapter05/p2.i
+	@echo ... chapter05/p2.s
+	@echo ... chapter05/p3.obj
+	@echo ... chapter05/p3.i
+	@echo ... chapter05/p3.s
+	@echo ... chapter05/p4.obj
+	@echo ... chapter05/p4.i
+	@echo ... chapter05/p4.s
 	@echo ... chapter26/chapter26_t0.obj
 	@echo ... chapter26/chapter26_t0.i
 	@echo ... chapter26/chapter26_t0.s
@@ -596,6 +743,9 @@ help:
 	@echo ... chapter27/chapter27_t1.obj
 	@echo ... chapter27/chapter27_t1.i
 	@echo ... chapter27/chapter27_t1.s
+	@echo ... chapter28/main.obj
+	@echo ... chapter28/main.i
+	@echo ... chapter28/main.s
 	@echo ... chapter29/Concurrent_Counter.obj
 	@echo ... chapter29/Concurrent_Counter.i
 	@echo ... chapter29/Concurrent_Counter.s

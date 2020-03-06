@@ -12,7 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aee839c2-4611-458c-a04a-2b961c8df75d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter05/p1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter28/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Operating_System.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Operating_System.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Operating_System.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +74,7 @@
       <workItem from="1583282209638" duration="7610000" />
       <workItem from="1583327063268" duration="522000" />
       <workItem from="1583391227665" duration="6540000" />
-      <workItem from="1583458075335" duration="3421000" />
+      <workItem from="1583458075335" duration="4771000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1583227109857</created>
@@ -120,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583461296833</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="chapter04 finished">
+      <created>1583461723639</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583461723639</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,10 +161,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="96" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1583458925362" />
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1583461661031">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1583461722595">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1583461661031" />
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1583461722595" />
     <state x="426" y="160" key="FileChooserDialogImpl" timestamp="1583414460213">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -170,10 +189,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="142" y="28" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1583461049330" />
-    <state x="233" y="122" key="Vcs.Push.Dialog.v2" timestamp="1583461298428">
+    <state x="233" y="122" key="Vcs.Push.Dialog.v2" timestamp="1583461725128">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="233" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1583461298428" />
+    <state x="233" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1583461725128" />
     <state x="509" y="117" key="ftp.server.browser" timestamp="1583460884200">
       <screen x="0" y="0" width="1280" height="770" />
     </state>

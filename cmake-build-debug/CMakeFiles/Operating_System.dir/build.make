@@ -264,6 +264,71 @@ CMakeFiles/Operating_System.dir/chapter04/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter04/main.c.s"
 	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter04\main.c -o CMakeFiles\Operating_System.dir\chapter04\main.c.s
 
+CMakeFiles/Operating_System.dir/chapter28/main.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter28/main.c.obj: ../chapter28/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Operating_System.dir/chapter28/main.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter28\main.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter28\main.c
+
+CMakeFiles/Operating_System.dir/chapter28/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter28/main.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter28\main.c > CMakeFiles\Operating_System.dir\chapter28\main.c.i
+
+CMakeFiles/Operating_System.dir/chapter28/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter28/main.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter28\main.c -o CMakeFiles\Operating_System.dir\chapter28\main.c.s
+
+CMakeFiles/Operating_System.dir/chapter05/p1.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter05/p1.c.obj: ../chapter05/p1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Operating_System.dir/chapter05/p1.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter05\p1.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p1.c
+
+CMakeFiles/Operating_System.dir/chapter05/p1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter05/p1.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p1.c > CMakeFiles\Operating_System.dir\chapter05\p1.c.i
+
+CMakeFiles/Operating_System.dir/chapter05/p1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter05/p1.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p1.c -o CMakeFiles\Operating_System.dir\chapter05\p1.c.s
+
+CMakeFiles/Operating_System.dir/chapter05/p2.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter05/p2.c.obj: ../chapter05/p2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Operating_System.dir/chapter05/p2.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter05\p2.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p2.c
+
+CMakeFiles/Operating_System.dir/chapter05/p2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter05/p2.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p2.c > CMakeFiles\Operating_System.dir\chapter05\p2.c.i
+
+CMakeFiles/Operating_System.dir/chapter05/p2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter05/p2.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p2.c -o CMakeFiles\Operating_System.dir\chapter05\p2.c.s
+
+CMakeFiles/Operating_System.dir/chapter05/p3.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter05/p3.c.obj: ../chapter05/p3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Operating_System.dir/chapter05/p3.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter05\p3.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p3.c
+
+CMakeFiles/Operating_System.dir/chapter05/p3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter05/p3.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p3.c > CMakeFiles\Operating_System.dir\chapter05\p3.c.i
+
+CMakeFiles/Operating_System.dir/chapter05/p3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter05/p3.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p3.c -o CMakeFiles\Operating_System.dir\chapter05\p3.c.s
+
+CMakeFiles/Operating_System.dir/chapter05/p4.c.obj: CMakeFiles/Operating_System.dir/flags.make
+CMakeFiles/Operating_System.dir/chapter05/p4.c.obj: ../chapter05/p4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Operating_System.dir/chapter05/p4.c.obj"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Operating_System.dir\chapter05\p4.c.obj   -c C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p4.c
+
+CMakeFiles/Operating_System.dir/chapter05/p4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Operating_System.dir/chapter05/p4.c.i"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p4.c > CMakeFiles\Operating_System.dir\chapter05\p4.c.i
+
+CMakeFiles/Operating_System.dir/chapter05/p4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Operating_System.dir/chapter05/p4.c.s"
+	C:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ryoua\CLionProjects\Operating-System\chapter05\p4.c -o CMakeFiles\Operating_System.dir\chapter05\p4.c.s
+
 # Object files for target Operating_System
 Operating_System_OBJECTS = \
 "CMakeFiles/Operating_System.dir/main.c.obj" \
@@ -281,7 +346,12 @@ Operating_System_OBJECTS = \
 "CMakeFiles/Operating_System.dir/chapter02/threads.c.obj" \
 "CMakeFiles/Operating_System.dir/chapter01/main.c.obj" \
 "CMakeFiles/Operating_System.dir/chapter03/main.c.obj" \
-"CMakeFiles/Operating_System.dir/chapter04/main.c.obj"
+"CMakeFiles/Operating_System.dir/chapter04/main.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter28/main.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter05/p1.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter05/p2.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter05/p3.c.obj" \
+"CMakeFiles/Operating_System.dir/chapter05/p4.c.obj"
 
 # External object files for target Operating_System
 Operating_System_EXTERNAL_OBJECTS =
@@ -302,11 +372,16 @@ Operating_System.exe: CMakeFiles/Operating_System.dir/chapter02/threads.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/chapter01/main.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/chapter03/main.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/chapter04/main.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter28/main.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter05/p1.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter05/p2.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter05/p3.c.obj
+Operating_System.exe: CMakeFiles/Operating_System.dir/chapter05/p4.c.obj
 Operating_System.exe: CMakeFiles/Operating_System.dir/build.make
 Operating_System.exe: CMakeFiles/Operating_System.dir/linklibs.rsp
 Operating_System.exe: CMakeFiles/Operating_System.dir/objects1.rsp
 Operating_System.exe: CMakeFiles/Operating_System.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking C executable Operating_System.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ryoua\CLionProjects\Operating-System\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C executable Operating_System.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Operating_System.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
